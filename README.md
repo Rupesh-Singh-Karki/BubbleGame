@@ -33,8 +33,8 @@ This repository contains a **Flask-based Bubble Game Web Application** with user
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/bubble-game.git
-   cd bubble-game
+   git clone https://github.com/Rupesh-Singh-Karki/BubbleGame.git
+   cd BubbleGame
    ```
 
 2. **Create and activate a virtual environment:**
